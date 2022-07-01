@@ -8,6 +8,18 @@ edge默认的bing搜索页是我每天见到频率最高的页面，直接影响
 
 在最合适的场景做最恰当的事！
 
+\----
+
+图不是bing搜索，是edge的启动页。
+
+ <!--StartFragment-->
+
+<https://ntp.msn.cn/edge/ntp?locale=en&dsp=0&sp=Google&query=enterprise&startpage=1>
+
+<!--EndFragment-->
+
+
+
 ![](images/1.jpg "加阴影，减小干扰")
 
 ![](images/2.jpg)

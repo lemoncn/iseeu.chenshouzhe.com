@@ -8,6 +8,38 @@ edge默认的bing搜索页是我每天见到频率最高的页面，直接影响
 
 在最合适的场景做最恰当的事！
 
+
+
+遮罩css：
+
+```css
+/* img 图片 */ 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 101%;
+    margin: -1px 0px 0px -1px;
+    object-fit: cover;
+    padding: 0px;
+    position: absolute;
+    width: 101%;
+
+/* 遮罩 */
+    background-attachment: fixed;
+    background-image: radial-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), radial-gradient(rgba(0, 0, 0, 0) 33%, rgba(0, 0, 0, 0.3) 166%);
+    background-position-y: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    transition: opacity 0.3s linear 0s;
+    width: 100%;
+```
+
+
+
 \----
 
 图不是bing搜索，是edge的启动页。
@@ -17,8 +49,6 @@ edge默认的bing搜索页是我每天见到频率最高的页面，直接影响
 <https://ntp.msn.cn/edge/ntp?locale=en&dsp=0&sp=Google&query=enterprise&startpage=1>
 
 <!--EndFragment-->
-
-
 
 ![](images/1.jpg "加阴影，减小干扰")
 

@@ -48,7 +48,15 @@ https://prod-streaming-video-msn-com.akamaized.net/e908e91f-370f-49ad-b4ce-775b7
 
 - - -
 
+**20220708**
 
+<video width="534" height="300" muted autoplay="autoplay" loop="loop">
+	<source src="/images/fflow.mp4" type="video/mp4"></source>
+</video>
+
+https://prod-streaming-video-msn-com.akamaized.net/15fc0eea-1091-4a28-a9b6-8caaf6013cf1/62b4c40f-ad3c-4099-a59a-bfbe324a461c.mp4
+
+- - -
 
 
 

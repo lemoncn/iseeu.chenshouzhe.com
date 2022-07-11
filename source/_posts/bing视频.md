@@ -58,6 +58,16 @@ https://prod-streaming-video-msn-com.akamaized.net/15fc0eea-1091-4a28-a9b6-8caaf
 
 - - -
 
+**20220711**
+
+<video width="534" height="300" muted autoplay="autoplay" loop="loop">
+	<source src="/images/fuji.mp4" type="video/mp4"></source>
+</video>
+
+https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103af156d2/3b215666-f0b7-4538-9ea2-0637d5ed2ea3.mp4
+
+- - -
+
 
 
 

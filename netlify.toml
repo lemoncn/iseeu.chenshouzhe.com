@@ -1,5 +1,5 @@
 [[redirects]]
   from = "https://iseeu.chenshouzhe.com/*"
-  to = "https://iseeu.chenshouzhe.com/:splat*"
+  to = "https://iseeyou.chenshouzhe.com/:splat"
   status = 301
   force = true

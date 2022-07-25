@@ -68,4 +68,14 @@ https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103
 
 - - -
 
+**20220722**
+
+<video width="534" height="300" muted loop="loop" controls>
+	<source src="/images/dam.mp4" type="video/mp4"></source>
+</video>
+
+https://prod-streaming-video-msn-com.akamaized.net/e1c45064-728f-4251-be31-778fefb4e784/01ae5076-482e-421c-80ac-d1d9892e0a55.mp4
+
+- - -
+
 to be continue

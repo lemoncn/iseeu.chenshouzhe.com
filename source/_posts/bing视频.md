@@ -78,4 +78,16 @@ https://prod-streaming-video-msn-com.akamaized.net/e1c45064-728f-4251-be31-778fe
 
 - - -
 
+**20220728**
+
+今天这个震撼
+
+<video width="534" height="300" muted loop="loop" controls>
+	<source src="/images/earth.mp4" type="video/mp4"></source>
+</video>
+
+https://prod-streaming-video-msn-com.akamaized.net/9752d732-2354-483f-a678-a6d0cd2c22b7/1a5ed13a-43f5-4e85-95c8-6579065c4d7c.mp4
+
+- - -
+
 to be continue

@@ -90,4 +90,16 @@ https://prod-streaming-video-msn-com.akamaized.net/9752d732-2354-483f-a678-a6d0c
 
 - - -
 
+**20220728**
+
+今天这个震撼
+
+<video width="534" height="300" muted loop="loop" controls>
+	<source src="/images/lb.mp4" type="video/mp4"></source>
+</video>
+
+https://prod-streaming-video-msn-com.akamaized.net/648cc494-7337-4644-9517-46877e93de76/486dfd9e-b104-4f2e-92a7-74c0eab6b14b.mp4
+
+- - -
+
 to be continue

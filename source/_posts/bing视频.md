@@ -92,13 +92,21 @@ https://prod-streaming-video-msn-com.akamaized.net/9752d732-2354-483f-a678-a6d0c
 
 **20220728**
 
-今天这个震撼
-
 <video width="534" height="300" muted loop="loop" controls>
 	<source src="/images/lb.mp4" type="video/mp4"></source>
 </video>
 
 https://prod-streaming-video-msn-com.akamaized.net/648cc494-7337-4644-9517-46877e93de76/486dfd9e-b104-4f2e-92a7-74c0eab6b14b.mp4
+
+- - -
+
+**20220826**
+
+<video width="534" height="300" muted loop="loop" controls>
+	<source src="/images/river.mp4" type="video/mp4"></source>
+</video>
+
+https://prod-streaming-video-msn-com.akamaized.net/68f0e528-68ae-4180-9f0a-8536b7e10d6c/0e21b937-49a9-4e37-aa36-9bf7ae4a1983.mp4
 
 - - -
 

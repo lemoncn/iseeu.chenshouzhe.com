@@ -118,8 +118,6 @@ https://prod-streaming-video-msn-com.akamaized.net/68f0e528-68ae-4180-9f0a-8536b
 
 https://prod-streaming-video-msn-com.akamaized.net/fb194c01-2ff6-4b4e-afbd-a00289124c4c/af7a74f5-5cb6-423e-b428-d05c0d36478d.mp4
 
-
-
 - - -
 
 **20230322**
@@ -131,6 +129,20 @@ https://prod-streaming-video-msn-com.akamaized.net/fb194c01-2ff6-4b4e-afbd-a0028
 cover:https://qq-web.cdn-go.cn/zc.qq.com/f59c7d00/v3/img/img-bg@2x.png
 
 v﻿ideo:https://qq-web.cdn-go.cn/zc.qq.com/f59c7d00/v3/img/bg-video.mp4
+
+
+
+\-﻿---
+
+
+
+**20230322**
+
+<video width="534" height="300" muted loop="loop" controls>
+	<source src="https://prod-streaming-video-msn-com.akamaized.net/3f6ca508-598d-4cbd-a3e2-43deea7bc377/b60c553e-9f3f-4164-8850-700a9a73a899.mp4" type="video/mp4"></source>
+</video>
+
+https://prod-streaming-video-msn-com.akamaized.net/3f6ca508-598d-4cbd-a3e2-43deea7bc377/b60c553e-9f3f-4164-8850-700a9a73a899.mp4
 
 - - -
 
